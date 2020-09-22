@@ -29,7 +29,7 @@ font-weight: 500;
 font-size: 60px;
 line-height: 97.2%;
 color:  #181717;
-width: 360px;
+width: 400px;
 height: 129px;
 position: absolute;
 left: 160px;
@@ -49,4 +49,141 @@ position: absolute;
 left: 39.75rem;
 top: 424px;
 
+}
+.down-arr{
+    position: absolute;
+    top:650.18px;
+    left: 160.03px;
+}
+.post{
+    position: absolute;
+    padding-top: 130px;
+    padding-bottom: 106px;
+    margin-left: 160px;
+    margin-right: 160px;
+    top: 651px;
+    
+    width: 1000px;
+}
+.post2{
+    position: absolute;
+    padding-top: 130px;
+    padding-bottom: 106px;
+    margin-left: 160px;
+    margin-right: 160px;
+    top: 1065px;
+    
+    width: 1000px;
+}
+.post3{
+    position: absolute;
+    padding-top: 130px;
+    padding-bottom: 106px;
+    margin-left: 160px;
+    margin-right: 160px;
+    top: 1497px;
+    
+    width: 1000px;
+}
+.tag{
+    
+    float: right;
+    height: 264.6px;
+width: 540px;
+
+
+
+
+
+
+
+    
+}
+.po-title{
+
+    height: 19px;
+    width: 326.2135925292969px;
+    font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 121.5%;
+color: #181717;
+    
+}
+.po-des{
+    height: 40px;
+    width: 356px;
+    left: 0px;
+    top: 44px;
+    border-radius: nullpx;
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 121.5%;
+
+letter-spacing: -0.03em;
+
+
+
+color: #181717;
+    
+}
+.po-detail{
+    height: 35px;
+width: 315.3398132324219px;
+left: 0px;
+top: 145px;
+border-radius: nullpx;
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 121.5%;
+/* or 17px */
+
+letter-spacing: -0.03em;
+
+/* Main Gray */
+
+color: #606060;
+position: relative;
+top: 30px;
+
+}
+.po-link{
+    height: 20px;
+width: 326.2135925292969px;
+left: 0px;
+top: 347px;
+border-radius: nullpx;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 121.5%;
+/* or 22px */
+
+letter-spacing: -0.03em;
+text-decoration-line: underline;
+
+/* Main Black */
+
+color: #181717;
+position: relative;
+top: 80px;
+
+}
+hr{
+    height: 0px;
+width: 1115.057373046875px;
+
+
+border-radius: nullpx;
+position: relative;
+top: 70px;
+width: 1000px;
+border: 1.5px solid #181717;
+border-bottom: 0px;
 }
