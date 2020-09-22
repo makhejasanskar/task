@@ -1,0 +1,52 @@
+
+.logo{
+    display: inline-block;
+    position: absolute;
+    left: 160px;
+    height: 23px;
+    width: 67.46px;
+
+}
+.menu{
+    display: inline-block;
+    word-spacing: 31.35px;
+    position: absolute;
+    right: 159.38px;
+    font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 120%;
+}
+.header{
+    margin-top: 112px;
+}
+h1{
+    display: inline-block;
+    font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+line-height: 97.2%;
+color:  #181717;
+width: 360px;
+height: 129px;
+position: absolute;
+left: 160px;
+top: 360px;
+}
+h2{
+    display: inline-block;
+    width: 580px;
+height: 111px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 117%;
+color: #606060;
+position: absolute;
+left: 39.75rem;
+top: 424px;
+
+}
