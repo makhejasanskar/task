@@ -11,17 +11,27 @@
     display: inline-block;
     word-spacing: 31.35px;
     position: absolute;
-    right: 159.38px;
+   left: 750px;
     font-family: DM Sans;
 font-style: normal;
 font-weight: 500;
 font-size: 21px;
 line-height: 120%;
+color: #181717;
+}
+a{
+        font-family: DM Sans;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 21px;
+        line-height: 120%;
+        color: #181717;
+        text-decoration: none;
 }
 .header{
     margin-top: 112px;
 }
-h1{
+.h11{
     display: inline-block;
     font-family: DM Sans;
 font-style: normal;
@@ -35,7 +45,7 @@ position: absolute;
 left: 160px;
 top: 360px;
 }
-h2{
+.h21{
     display: inline-block;
     width: 580px;
 height: 111px;
@@ -49,6 +59,42 @@ position: absolute;
 left: 39.75rem;
 top: 424px;
 
+}
+.ab-title{
+    display: block;
+    font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+line-height: 97.2%;
+color:  #181717;
+width: 500px;
+height: 129px;
+position: absolute;
+left: 160px;
+top: 360px;
+
+}
+.ab-des{
+        display: block;
+    width: 580px;
+height: 111px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 117%;
+color: #606060;
+
+position: absolute;
+
+top: 691px;
+left: 160px;
+    
+}
+.down{
+    position: relative;
+    top: 50px;
 }
 .down-arr{
     position: absolute;
@@ -119,7 +165,7 @@ color: #181717;
     border-radius: nullpx;
     font-family: Inter;
 font-style: normal;
-font-weight: normal;
+font-weight: 400px;
 font-size: 18px;
 line-height: 121.5%;
 
@@ -186,4 +232,162 @@ top: 70px;
 width: 1000px;
 border: 1.5px solid #181717;
 border-bottom: 0px;
+}
+
+.footer{
+    margin-top: 194px;
+    margin-bottom: 50px;
+    position: absolute;
+    top: 1913px;
+    left: 160px;
+    
+
+width: 1000px;
+height: 20px;
+}
+.ab-footer{
+    position: absolute;
+    top:1772px;
+    left: 160px;
+    margin-top: 194px;
+    margin-bottom: 50px;
+    
+    
+
+width: 1000px;
+height: 20px;
+}
+    
+.fl{
+display: inline-block;
+font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+color: #2429AF;
+}
+.fr{
+display: inline-block;
+font-family: DM Sans;
+word-spacing: 32px;
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+color: #181717;
+position: absolute;
+align-self: flex-end;
+position: absolute;
+right: 0px;
+
+}
+
+.td-dwn
+{
+    position: relative;
+    top: 32px;
+}
+.skills
+{
+position: absolute;
+top: 1189px;
+left:97px;
+
+}
+.bo{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 121.5%;
+    /* or 22px */
+    
+    letter-spacing: -0.03em;
+    text-decoration-line: underline;
+    
+    /* Main Black */
+    
+    color: #181717;
+}
+.data{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 121.5%;
+    /* or 22px */
+    
+    letter-spacing: -0.03em;
+    
+    /* Main Black */
+    
+    color: #181717;
+}
+.r2{
+    position: relative;
+    top: 100px;
+}
+.ab-bottom{
+    position: absolute;
+
+left: 160px;
+top: 1600px;
+
+}
+.project{
+    position: absolute;
+width: 347px;
+height: 71px;
+left: 160px;
+top: 1675px;
+
+
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 117%;
+
+
+
+color: #181717;
+}
+.mail{
+    position: absolute;
+width: 372px;
+height: 37px;
+left: 775px;
+top: 1675px;
+
+
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 117%;
+
+
+
+
+color: #181717;
+}
+.resume {
+    
+position: absolute;
+width: 150px;
+height: 22px;
+left: 775px;
+top: 1750px;
+
+
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 121.5%;
+
+
+color: #181717;
 }
